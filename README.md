@@ -1,3 +1,3 @@
 # ImageDataBaseRepository
 
-Repositorio para imgens de tutorial
+Repositorio para imagens de tutorial
